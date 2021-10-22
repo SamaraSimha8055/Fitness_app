@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Fitness world</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="exercise_text_view">%d times</string>
+    <string name="title_fitness_exercise">Exercise Number : (%d/%d)</string>
+    <string name="str_go">Go</string>
+    <string name="str_start_image">start image</string>
+    <string name="str_well_done">Well done</string>
+    <string name="str_next_workout">next workout</string>
+    <string name="str_about">This app is made to make our customers fit and healthy who\'s gonna follow daily workouts.</string>
+    <string name="str_image_about">about application</string>
+    <string name="about">About</string>
+    <string name="exit">exit</string>
+    <string name="next">next</string>
+    <string name="str_10_times">10 times</string>
+    <string name="try_again">try again</string>
+</resources>
